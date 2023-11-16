@@ -600,7 +600,7 @@ int main(){
     printf("    #    #####      #       #####    ##    #####   #      #    #  #  ###   #    #   #####       \n");
     printf("    #    #          #       #   #    ##    #   #   #      #    #  #    #   #    #   #           \n");
     printf("  #####  #          #####   #   #    ##    #   #   #####  ######   #####   ######   #####       \n\n");
-    printf("           [+]                   Created by : Aliiiiii.                    [+]                  \n");
+    printf("           [+]                   Created by : Aliiiiii404                  [+]                  \n");
     printf("           [+]              Select a number in the list below              [+]                  \n\n\n");
 
     int quit = 0;
