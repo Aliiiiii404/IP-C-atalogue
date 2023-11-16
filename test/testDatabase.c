@@ -1,9 +1,5 @@
 #include <stdio.h>
-#include <D:\ESGI\Language c et algorithmie\Projet\sqlite\snap\sqlite3.c>
-#include <D:\ESGI\Language c et algorithmie\Projet\sqlite\snap\sqlite3.h>
-#include <D:\ESGI\Language c et algorithmie\Projet\sqlite\snap\sqlite3ext.h>
-#include <D:\ESGI\Language c et algorithmie\Projet\sqlite\snap\sqlite3rc.h>
-
+#include "./sqlite3.h"
 
 int main() {
     sqlite3* db;
