@@ -1,2 +1,8 @@
 # IP-C-atalogue
-This program was written in the C language and the SQLite database, and its purpose is to catalog IP addresses (store IP addresses in the database, display them in binary or hexadecimal form, filter stored IPs with the subnet mask, update ip addresses, delete ).
+This program was written in the C language and the SQLite database, and its purpose is to :
+### catalog IP addresses
+ - Store IP addresses in the database.
+ - Display the stored IPs in binary or hexadecimal form.
+ - Filter stored IPs with the subnet mask.
+ - Update an existing ip addresses or subnet mask.
+ - delete an IP from the databse
