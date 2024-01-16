@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "./sqlite3.h"
-
+#include <sqlite3.h>
 // Before you start reading the code please keep in minde that EVERY return 0 is for an error and return 1 is for a Success, exept for the newIp and the main function.
 // Function that gets the Hexadecimal representation of the ip address
 char* toHexa(char ip[]){
