@@ -9,7 +9,7 @@ This program was developed using the C language and the SQLite database. Its pri
  - Deleting an IP from the database
 
 ### Tips :
-**Tip :** Compile and run the main.c file using 
+Compile and run the main.c file using : 
  ```bash
 gcc main.c -o main -lsqlite3
 ./main
